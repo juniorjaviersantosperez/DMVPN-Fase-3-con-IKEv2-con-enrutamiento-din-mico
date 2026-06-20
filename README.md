@@ -3,7 +3,7 @@
 **Alumno:** Junior Javier Santos Perez  
 **Matrícula:** 2024-1599  
 **Plataforma:** Lab PNET  
-**Fecha:** Junio 2026
+
 
 # Video demostrativo: #
 # Enlace GitHub: #
