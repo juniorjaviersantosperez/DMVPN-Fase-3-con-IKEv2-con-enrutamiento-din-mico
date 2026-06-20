@@ -5,8 +5,8 @@
 **Plataforma:** Lab PNET  
 
 
-## Video demostrativo: https://www.youtube.com/watch?v=r7H2XeKSssE ##
-## Enlace GitHub: ##
+Video demostrativo: https://www.youtube.com/watch?v=r7H2XeKSssE 
+Enlace GitHub:https://github.com/juniorjaviersantosperez/DMVPN-Fase-3-con-IKEv2-con-enrutamiento-din-mico.git
 ---
 
 ## Objetivo
